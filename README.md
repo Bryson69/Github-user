@@ -13,7 +13,7 @@ CSS.
 Angular.
 
 #### Livesite
-Link to livesite : 
+Link to livesite : https://bryson69.github.io/Github-user/
 
 ## Development server
 
