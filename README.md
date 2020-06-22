@@ -1,6 +1,19 @@
 # Githubhub
 
+By: Bryson Mundia.😎 
+
+This is a project whereby you can search for your GitHub username. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
+
+## Languages used
+
+HTML.
+CSS.
+Angular.
+
+#### Livesite
+Link to livesite : 
 
 ## Development server
 
