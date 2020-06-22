@@ -1,0 +1,48 @@
+.carousel-inner {
+    height: 75vh;
+}
+
+#nav{
+    color: black;
+}
+
+.mask{
+    justify-content: center;
+    margin-top: 100px;
+    color: snow;
+}
+ 
+#form{
+    margin-top: 50px;
+    float: left;
+}
+.vie{
+    margin-top: 30px;
+}
+
+#card{
+    background-color: black;
+}
+
+#card >li {
+    color: snow;
+}
+a{
+    color: snow;
+}
+
+#foot{
+    font-size: 23px;
+    color: snow;
+}
+
+#colo{
+    color: blue-gradient;
+}
+
+.h3{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 15px;
+    color: black;
+    font-size: 14px;
+}
